@@ -1,0 +1,24 @@
+{
+  "name": "memleket",
+  "version": "1.0.0",
+  "description": "memleketjs is tiny library to add address option into forms for Türkiye addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkanaltinors/memleket.git"
+  },
+  "keywords": [
+    "address",
+    "turkey",
+    "türkiye"
+  ],
+  "author": "erkanaltinors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erkanaltinors/memleket/issues"
+  },
+  "homepage": "https://github.com/erkanaltinors/memleket#readme"
+}
